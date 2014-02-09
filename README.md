@@ -20,6 +20,6 @@
 
 # 下载
 
-[[PDF]](build/code_of_future.pdf) [[EPUB]](build/code_of_future.epub) [[MOBI]](build/code_of_future.mobi)
+[[PDF]](build/futrue_of_code.pdf) [[EPUB]](build/future_of_code.epub) [[MOBI]](build/future_of_code.mobi)
 
 build date: 2014/2/8
