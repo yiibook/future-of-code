@@ -20,6 +20,8 @@
 
 # 下载
 
-[[PDF]](build/futrue_of_code.pdf) [[EPUB]](build/future_of_code.epub) [[MOBI]](build/future_of_code.mobi)
+http://pan.baidu.com/s/1bnmuTCb
+
+提取密码： lkqf
 
 build date: 2014/2/8
